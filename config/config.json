@@ -1,10 +1,11 @@
 {
   "development": {
-    "username": "postgres",
-    "password": "Compaq123",
-    "database": "backend_db",
-    "host": "127.0.0.1",
-    "dialect": "postgres"
+    "Host":"ec2-3-215-76-208.compute-1.amazonaws.com",
+    "Database":"d2uf04v5qr0udn",
+    "User":"ynfyyerrsaqyec",
+    "Port":5432,
+    "dialect": "postgres",
+    "logging":  true
   },
   "test": {
     "username": "root",
