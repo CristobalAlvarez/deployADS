@@ -5,7 +5,9 @@
     "username":"ynfyyerrsaqyec",
     "port":5432,
     "dialect": "postgres",
-    "sslmode":"require"
+    "ssl": {
+      "rejectUnauthorized": false
+    }
   },
   "test": {
     "username": "root",
@@ -20,6 +22,8 @@
     "username":"ynfyyerrsaqyec",
     "port":5432,
     "dialect": "postgres",
-    "sslmode":"require"
+    "ssl": {
+      "rejectUnauthorized": false
+    }
   }
 }
