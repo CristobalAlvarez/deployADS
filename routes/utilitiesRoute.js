@@ -74,4 +74,16 @@ router.get("/getEmail/token=:token", async (req, resp) => {
     
 });
 
+router.get("/test", async (req, resp) => {
+
+    try{
+
+        resp.status(200).send("Perfect");
+        
+    }catch(error){
+        resp.status(400).send(error);
+    }
+    
+});
+
 module.exports = router;
