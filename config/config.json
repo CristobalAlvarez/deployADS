@@ -1,9 +1,9 @@
 {
   "development": {
-    "Host":"ec2-3-215-76-208.compute-1.amazonaws.com",
-    "Database":"d2uf04v5qr0udn",
-    "User":"ynfyyerrsaqyec",
-    "Port":5432,
+    "host":"ec2-3-215-76-208.compute-1.amazonaws.com",
+    "database":"d2uf04v5qr0udn",
+    "user":"ynfyyerrsaqyec",
+    "port":5432,
     "dialect": "postgres"
   },
   "test": {
@@ -14,10 +14,10 @@
     "dialect": "mysql"
   },
   "production": {
-    "Host":"ec2-3-215-76-208.compute-1.amazonaws.com",
-    "Database":"d2uf04v5qr0udn",
-    "User":"ynfyyerrsaqyec",
-    "Port":5432,
+    "host":"ec2-3-215-76-208.compute-1.amazonaws.com",
+    "database":"d2uf04v5qr0udn",
+    "user":"ynfyyerrsaqyec",
+    "port":5432,
     "dialect": "postgres"
   }
 }
