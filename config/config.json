@@ -2,7 +2,7 @@
   "development": {
     "host":"ec2-3-215-76-208.compute-1.amazonaws.com",
     "database":"d2uf04v5qr0udn",
-    "user":"ynfyyerrsaqyec",
+    "username":"ynfyyerrsaqyec",
     "port":5432,
     "dialect": "postgres"
   },
@@ -16,7 +16,7 @@
   "production": {
     "host":"ec2-3-215-76-208.compute-1.amazonaws.com",
     "database":"d2uf04v5qr0udn",
-    "user":"ynfyyerrsaqyec",
+    "username":"ynfyyerrsaqyec",
     "port":5432,
     "dialect": "postgres"
   }
