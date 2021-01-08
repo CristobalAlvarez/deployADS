@@ -24,7 +24,9 @@
     "pg": "^8.4.2",
     "pg-hstore": "^2.3.3",
     "rut.js": "^1.0.2",
-    "sequelize": "^6.3.5"
+    "sequelize": "^6.3.5",
+    "nodemon": "^2.0.6",
+    "sequelize-cli": "^6.2.0"
   },
   "devDependencies": {
     "nodemon": "^2.0.6",
